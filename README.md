@@ -59,7 +59,7 @@ pip install lolcat
 git clone https://github.com/Mojiibrsm/Mr
 cd Mr
 python Mr.py
-Then Select Your Option
+**Then Select Your Option.
 ```
 <br>One Command:<br>
 
