@@ -1,8 +1,8 @@
 
 
    ╔═════════════════════════════════╗
-   ║ AuTHor   : MoJiiiB ツ           ║
-   ║ FaCeBooK : Mojibrsm           ║
+   ║ Author   : MoJiiiB ツ           ║
+   ║ Facbook: Mojibrsm          ║
    ║ GitHuB   : Mojib-Rsm            ║
    ╚═════════════════════════════════╝
 
