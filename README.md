@@ -71,7 +71,7 @@ pkg update -y && pkg upgrade && pkg install python -y && pkg install python2 -y 
 
 <a href="https://github.com/Mojiibrsm/Mr/blob/main/Mr_Tools%20(Mojib%20Rsm).jpg"><img alt="Screenshots" title="Screenshots" src="https://github.com/Mojiibrsm/Mr/blob/main/Mr_Tools%20(Mojib%20Rsm).jpg"/></a><br><br>
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
-Everytime it shows the error it sends a bombing request to the API.
+
 
 ## Contact me  
 
