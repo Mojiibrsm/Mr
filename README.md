@@ -38,12 +38,21 @@ or any version greater than or equal to 3.4, this script has been tested and con
 
 ## Features
 
-- Over 20 integrated messaging and calling APIs included within api.py
-- Unlimited (with abuse protection) and super-fast bombing with multithreading
-- Possibility of international API support in future updates of this script
-- Flexible with addition of newer APIs with the help of api.py file
-- Actively supports Indian mobile numbers and will get updates and bug-fixes
-- Made for free and open-source usage, in case of any query feel free to contact
+- API GENERATE
+- API TO NUMBER
+- ID TO NUMBER
+- NUMBER TO ID
+- CIRCLE PIN
+- GET BLOCK LIST
+- AUTO SHOUT
+- JOIN XJOIN
+- AUTO POKE and AUTO COMMENTS
+- FOLLOWING CLEAN
+- FOLLOWER CLEAN
+- FOLLOWER  CHECK
+- FOLLOWING CHECK
+- SHOUT CHECK
+- * Made for free and open-source usage, in case of any query feel free to contact
 
 ## Usage Guide
 
