@@ -12,8 +12,7 @@
 <p align="center">A free Robi Circle Information Tools</p>
 
 ## Notes:
-⚙ [Script Usage Guide](https://github.com/nihalkadengal/Shadow#-usage-guide)
-
+⚙ Our Tool is Absolutely Free, Don't Sell or Buy Anyone
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become
 responsible for any misuse or damage caused by Shadow.**  
