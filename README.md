@@ -52,7 +52,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - FOLLOWER  CHECK
 - FOLLOWING CHECK
 - SHOUT CHECK
-- * Made for free and open-source usage, in case of any query feel free to contact
+* Made for free and open-source usage, in case of any query feel free to contact
 
 ## Usage Guide
 
@@ -68,7 +68,7 @@ pip install lolcat
 git clone https://github.com/Mojiibrsm/Mr
 cd Mr
 python Mr.py
-**Then Select Your Option.
+- * Then Select Your Option.
 ```
 <br>One Command:<br>
 
