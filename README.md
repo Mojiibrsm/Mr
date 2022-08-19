@@ -1,8 +1,5 @@
 <h1 align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mojib-rsm&label=Profile%20views&color=0e75b6&style=flat" alt="mojib-rsm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojib-rsm" alt="mojib-rsm" /></a> </p>
-  <br>
+ <br>
   <a href="https://github.com/Mojiibrsm/Mr">
   <img src="https://circle-tool.mojibrsm.xyz/img/circlelogo.png"
   alt="Tsunami">
