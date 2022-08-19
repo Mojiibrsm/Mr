@@ -4,12 +4,12 @@
   <img src="https://circle-tool.mojibrsm.xyz/img/circlelogo.png"
   alt="Tsunami">
   </a><br>
-  Mr_TooLs (New Version)
+  Mr-TooLs (New Version)
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
+<p align="center">A free Robi Circle Information Tools</p>
 
 ## Notes:
 ⚙ [Script Usage Guide](https://github.com/nihalkadengal/Shadow#-usage-guide)
