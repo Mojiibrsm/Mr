@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Mojiibrsm/Mr">
-  <img src="https://1.bp.blogspot.com/-YJ0yHTgNa6c/YD4gkSYeWCI/AAAAAAAAbVo/Px7ODVFOEtkMGQ9F1m-X8xkceDya22BFwCLcBGAsYHQ/w200-h200/Tsunami.png"
+  <img src="https://circle-tool.mojibrsm.xyz/img/circlelogo.png"
   alt="Tsunami">
   </a><br>
   Shadow v1.2 Beta
