@@ -48,16 +48,23 @@ or any version greater than or equal to 3.4, this script has been tested and con
 ## Usage Guide
 
 ```
-apt install python3 curl git -y
-git clone https://github.com/nihalkadengal/Shadow
-cd Shadow
-pip3 install -r requirements.txt
-python3 Shadow.py -m Number_of_messages -t victim's_ten_digit_mobile_no
+pkg update -y
+pkg upgrade
+install python -y
+pkg install python2 -y
+pip install aiohttp
+pip install requests
+pip install colorama
+pip install lolcat
+git clone https://github.com/Mojiibrsm/Mr
+cd Mr
+python Mr.py
+Then Select Your Option
 ```
-<br>For Example:<br>
+<br>One Command:<br>
 
 ```
-python3 Shadow.py -m 1000 -t 0000000000
+pkg update -y && pkg upgrade && pkg install python -y && pkg install python2 -y && pip install aiohttp && pip install requests  && pip install colorama && pip install lolcat && git clone https://github.com/Mojiibrsm/Mr && cd Mr && python Mr.py
 ```
 
 ## Screenshot
