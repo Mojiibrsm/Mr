@@ -4,7 +4,7 @@
   <img src="https://circle-tool.mojibrsm.xyz/img/circlelogo.png"
   alt="Tsunami">
   </a><br>
-  Shadow v1.2 Beta
+  Mr_TooLs (New Version)
   <br>
 </h1>
 
