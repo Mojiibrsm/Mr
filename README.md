@@ -18,7 +18,7 @@
 responsible for any misuse or damage caused by Shadow.**  
 **Please do not use this script for taking Revenge on someone. The script is written only for fair usage.**
 
-**This script is on it's Beta stage. Currently only Indian Mobile numbers are supported.**
+**Currently only Bangladesh Circle's are supported.**
 
 
 - The application requires active internet connection to contact the APIs
@@ -71,4 +71,4 @@ Everytime it shows the error it sends a bombing request to the API.
 
 ## Contact me  
 
-For Queries: [My Instagram Profile](https://www.instagram.com/nihal07._/)
+For Queries: [My Facebook](https://www.facebook.com/Mojiibrsm/)
