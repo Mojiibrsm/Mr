@@ -18,14 +18,11 @@
 responsible for any misuse or damage caused by Shadow.**  
 **Please do not use this script for taking Revenge on someone. The script is written only for fair usage.**
 
-**Currently only Bangladesh Circle's are supported.**
+**Currently only Bangladesh Robi Circle's are supported.**
 
 
 - The application requires active internet connection to contact the APIs
-- You would not be charged for any SMS/calls dispatched as a consequence of this script
-- For best performance, use single thread in your Linux terminal
-- Always ensure that you are using the latest version of Shadow and have Python3
-- This application must not be used to cause harm/discomfort/trouble to others
+- You would not be charged for any Circle Info
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
 ## Compatibility
